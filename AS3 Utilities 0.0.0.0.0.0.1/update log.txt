@@ -1,0 +1,5 @@
+0.0.0.0.0.0.1 created: <utility.view.rectangle.Rectangle.as>
+		    	drawSolidRectangle function
+		    	drawStageSizeRectangle function
+			drawSquare function
+		    <utility.view.rectangle.Rectangle.as/>
